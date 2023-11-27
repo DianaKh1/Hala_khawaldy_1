@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "confetti-js": "^0.0.18",
+    "jquery": "^3.7.1"
+  }
+}
